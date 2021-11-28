@@ -1,22 +1,28 @@
+# Welcome to ubiquitous computing
 
-# Contributions
+In the first exercise, I extract information from a series of sensors about a person’s physical
+state. In the second exercise, I use sensor values to learn more about a person’s internal state.
 
-This project was done solely by me, because I have registered for the class one week after teams were formed...
+## 1. Reproducibility
 
-# Projects Reports
-The first project did not required any report, whereas the second needed one (p2/Report.pdf). 
+Follow these instructions to set up a local repo.
 
-# Solutions .ipynb files
+```
+git clone https://github.com/pbonazzi/21-ubiquitous-computing.git
+jupyter notebook
+```
 
-### Navigation
-The folder P1 corresponds to the first practical, P2 to the second.
-Each folder itself contains the solution in pyth file, the data used for the solution is privated and cannot be shared under ETH law.
+## 2. Reference
 
-### Final Solution file path
-Project 1:  
-    
-    p1/Code.ipynb
+Only the second project required a report. 
 
-Project 2:  
-    
-    p2/Code.ipynb
+:page_with_curl: Paper [on GitHub](./vital-signs/report.pdf)
+
+```
+@article{bonazzi2021,
+  title={Physiological signals in affective computing.},
+  institution={ETH Zürich},
+  author={Bonazzi},
+  year={2021}
+}
+```
