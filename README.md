@@ -14,9 +14,9 @@ jupyter notebook
 
 ## 2. Reference
 
-Only the second project required a report. 
+Only the emotion classification project required a report. 
 
-:page_with_curl: Paper [on GitHub](./vital-signs/report.pdf)
+:page_with_curl: Paper [on GitHub](emotion-classification/report.pdf)
 
 ```
 @article{bonazzi2021,
